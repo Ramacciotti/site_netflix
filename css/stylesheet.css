@@ -86,7 +86,7 @@ a{
             color: white;
             font-size: 1em;
             min-height: 400px;
-            background-image: linear-gradient(rgba(0,0,0,.40),rgba(0,0,0,.40)100%), url('/images/sherlock_capa.jpg');
+            background-image: linear-gradient(rgba(0,0,0,.40),rgba(0,0,0,.40)100%), url('../images/sherlock_capa.jpg');
             background-attachment: fixed;
             background-size: cover;
             background-position: 100px -110px; 
